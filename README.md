@@ -1,1 +1,1 @@
-# Primitive-Cloud-Gaming-Software
+# StreamPlay Assistant
